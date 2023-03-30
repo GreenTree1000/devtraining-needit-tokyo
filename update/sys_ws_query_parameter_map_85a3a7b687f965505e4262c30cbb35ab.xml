@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter_map">
+    <sys_ws_query_parameter_map action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_ws_query_parameter_map</sys_class_name>
+        <sys_created_by>735246</sys_created_by>
+        <sys_created_on>2023-03-29 17:33:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>85a3a7b687f965505e4262c30cbb35ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>93aedffe87b965505e4262c30cbb3591</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_query_parameter_map_85a3a7b687f965505e4262c30cbb35ab</sys_update_name>
+        <sys_updated_by>735246</sys_updated_by>
+        <sys_updated_on>2023-03-29 17:33:21</sys_updated_on>
+        <web_service_operation display_value="ni_getinfo">6143a3b687f965505e4262c30cbb35a3</web_service_operation>
+        <web_service_query_parameter display_value="ni_query">93aedffe87b965505e4262c30cbb3591</web_service_query_parameter>
+    </sys_ws_query_parameter_map>
+    <sys_translated_text action="delete_multiple" query="documentkey=85a3a7b687f965505e4262c30cbb35ab"/>
+</record_update>
